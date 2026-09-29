@@ -1,0 +1,46 @@
+name: Refresh GitHub profile stats
+
+on:
+  push:
+    paths:
+      - ".github/workflows/update-github-stats.yml"
+      - "scripts/generate-github-stats.mjs"
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-profile-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate stats cards
+        run: node scripts/generate-github-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-languages.svg
+          if git diff --cached --quiet; then
+            echo "No stats changes to publish."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile stats"
+          git push
