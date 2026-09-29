@@ -31,6 +31,18 @@
 
 ---
 
+### 🎓 Certifications & Learning
+
+* 🐙 **GitHub Essential Training: 1 The Basics** — LinkedIn Learning  
+  [View Certificate →](https://www.linkedin.com/learning/certificates/b9c293b847364efacf4ffd8e244234b5561d903717c8bf42e27b24b8523063e4)
+
+* 🎓 **LinkedIn Learning Certificate**  
+  [View Certificate →](https://www.linkedin.com/learning/certificates/715dcf0156c7fa5449be59a2844047991cd37f8d18c93a52fb594c86929ad448)
+
+> 📚 More certifications coming as I continue learning and expanding my technical skills.
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
