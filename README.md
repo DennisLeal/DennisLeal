@@ -46,15 +46,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DennisLeal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Dennis Leal's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/github-stats.svg" alt="Dennis Leal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DennisLeal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DennisLeal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennisLeal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ---
