@@ -6,7 +6,8 @@
 
 <p><a href="https://github.com/DennisLeal"><img src="https://komarev.com/ghpvc/?username=DennisLeal&label=PROFILE%20VIEWS&color=3B82F6&style=flat-square" alt="GitHub profile views" /></a></p>
 
-<p><a href="https://github.com/DennisLeal?tab=repositories">Repositories</a> • <a href="https://github.com/DennisLeal/workforce-management-portfolio">WFM Portfolio</a> • <a href="https://workforce-management-portfolio.vercel.app/">Live Portfolio</a></p>
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=DennisLeal&label=PROFILE+VIEWS&color=3B82F6&style=flat-square)
 
 </div>
 
