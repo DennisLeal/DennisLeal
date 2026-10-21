@@ -39,11 +39,10 @@ Projects under development span productivity, health tracking, security, automat
 
 | Project | What it is |
 | :--- | :--- |
-| 💼 **[Workforce Management Portfolio](https://github.com/DennisLeal/workforce-management-portfolio)** | Professional portfolio showcasing my WFM, RTA, troubleshooting, and technology experience. |
-| 🖥️ **[WinSentinel](https://github.com/DennisLeal/WinSentinel)** | Windows security and monitoring project focused on practical system visibility and diagnostics. |
-| 🥗 **[Kcal Log](https://github.com/DennisLeal/kcal-log)** | Calorie logging application designed around practical, long-term daily use. |
-| 📱 **[Kcal Log App](https://github.com/DennisLeal/kcal-log-app)** | Mobile-oriented version of the Kcal Log project. |
-| 🧪 **[Papsitv](https://github.com/DennisLeal/Papsitv)** | Personal project repository and experimental development space. |
+| 💼 **[Portfolio](https://github.com/DennisLeal/Portfolio)** | Personal portfolio highlighting my Workforce Management, real-time operations, technical troubleshooting, experience, and projects. |
+| 🖥️ **[WinSentinel](https://github.com/DennisLeal/WinSentinel)** | Windows security-monitoring project with a 3D dashboard, demo scenarios, and developing local read-only system observations. |
+| 🥗 **[Kcal Log](https://github.com/DennisLeal/kcal-log)** | Calorie-logging application for tracking daily food intake and supporting weight-management goals. |
+| 📱 **[Kcal Log App](https://github.com/DennisLeal/kcal-log-app)** | Mobile-oriented companion project for the Kcal Log experience. |
 
 ### 🌐 Portfolio
 
