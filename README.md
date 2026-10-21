@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm Dennis Leal
 
@@ -6,7 +5,7 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=DennisLeal&label=PROFILE+VIEWS&color=3B82F6&style=flat-square)
 
-</div>
+[GitHub Repositories](https://github.com/DennisLeal?tab=repositories) • [WFM Portfolio](https://github.com/DennisLeal/workforce-management-portfolio) • [Live Portfolio](https://workforce-management-portfolio.vercel.app/)
 
 ---
 
@@ -55,15 +54,19 @@ Projects under development span productivity, health tracking, security, automat
 ## 🧰 Technology & Development
 
 ### AI-Assisted Development
+
 AI Coding Agents • GitHub • VS Code • Claude • Gemini • Docker
 
 ### Web & Application Development
+
 HTML • CSS • JavaScript • Node.js • Progressive Web Apps
 
 ### Systems & Infrastructure
+
 Windows • Docker • Git • GitHub Actions • System Troubleshooting
 
 ### Workforce Management
+
 WFM • Real-Time Analysis • Intraday Operations • NICE IEX • Webstation • Operational Troubleshooting
 
 > My technology stack continues to evolve as I build, test, troubleshoot, and ship new projects.
@@ -72,11 +75,11 @@ WFM • Real-Time Analysis • Intraday Operations • NICE IEX • Webstation �
 
 ## 📈 GitHub Activity
 
-<p align="center"><img src="https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/github-stats.svg" alt="Dennis Leal's GitHub Stats" /></p>
+![Dennis Leal's GitHub Stats](https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/github-stats.svg)
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=DennisLeal&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=DennisLeal&theme=tokyonight&hide_border=true&background=1a1b26)
 
-<p align="center"><img src="https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/top-languages.svg" alt="Top Languages" /></p>
+![Dennis Leal's Top Languages](https://raw.githubusercontent.com/DennisLeal/DennisLeal/main/assets/top-languages.svg)
 
 ---
 
@@ -91,12 +94,9 @@ I'm continuously expanding my technical skills through hands-on projects, experi
 
 ## 🤝 Connect
 
-<p><a href="https://github.com/DennisLeal">GitHub</a> • <a href="https://workforce-management-portfolio.vercel.app/">Portfolio</a></p>
+- [GitHub](https://github.com/DennisLeal)
+- [Portfolio](https://workforce-management-portfolio.vercel.app/)
 
 ---
 
-<div align="center">
-
 **Building practical software. Solving real problems. Learning continuously.**
-
-</div>
