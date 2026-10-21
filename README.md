@@ -5,7 +5,7 @@
 
 ![GitHub Profile Views](https://hits.sh/github.com/DennisLeal.svg?label=PROFILE%20VIEWS&color=3B82F6&style=flat-square)
 
-[GitHub Repositories](https://github.com/DennisLeal?tab=repositories) • [WFM Portfolio](https://github.com/DennisLeal/workforce-management-portfolio) • [Live Portfolio](https://workforce-management-portfolio.vercel.app/)
+[GitHub Repositories](https://github.com/DennisLeal?tab=repositories) • [WFM Portfolio](https://github.com/DennisLeal/workforce-management-portfolio) • [Live Portfolio](https://wfmportfolio.vercel.app/projects)
 
 ---
 
