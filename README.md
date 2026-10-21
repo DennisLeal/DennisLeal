@@ -4,9 +4,6 @@
 
 ### AI-Assisted Developer • WFM Technology • IT & Technical Support • Zelven Labs
 
-<p><a href="https://github.com/DennisLeal"><img src="https://komarev.com/ghpvc/?username=DennisLeal&label=PROFILE%20VIEWS&color=3B82F6&style=flat-square" alt="GitHub profile views" /></a></p>
-
-
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=DennisLeal&label=PROFILE+VIEWS&color=3B82F6&style=flat-square)
 
 </div>
